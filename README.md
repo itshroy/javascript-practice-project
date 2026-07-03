@@ -22,9 +22,9 @@ A collection of beginner-friendly JavaScript mini projects built to practice DOM
 ##  Folder Structure
 
 ```
-javascript-mini-projects/
-├── TodoApp/
-├── Event-Listener/
+javascript-practice-project
+├── TodoApp
+├── eventListener
 └── README.md
 ```
 

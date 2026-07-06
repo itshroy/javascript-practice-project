@@ -25,6 +25,7 @@ A collection of beginner-friendly JavaScript mini projects built to practice DOM
 javascript-practice-project
 ├── TodoApp
 ├── eventListener
+├── Simon Says Game
 └── README.md
 ```
 
